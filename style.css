@@ -1,0 +1,35 @@
+body {background-color:green;
+}
+
+h1{ border-style: solid;
+text-align: center;
+font-size: 80px;
+}
+
+h2{ text-align: right;
+    text-decoration: underline;  
+}
+
+p{
+ text-align: right;
+
+}
+
+p { text-align: right;
+
+}
+
+h3{ border-style: initial;
+    text-decoration: underline;
+}
+
+h4{ text-align: left;
+    text-decoration: underline;
+}
+
+h5{ text-decoration: underline;
+
+}
+
+
+
